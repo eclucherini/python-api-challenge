@@ -1,1 +1,3 @@
 # python-api-challenge
+
+In general, this challenge was one of the easiest, as most of the code could be copied from examples completed during class. I did struggle with the loop in VacationPy, which iterated through the hotel_df DataFrame. I tend to struggle constructing loops in general, particularly with the added "params" component. I also had a lot of difficulty defining the correlation equation as a function, instead of running it for each set of data. 
